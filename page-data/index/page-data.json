@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-index-js",
+    "componentChunkName": "component---src-templates-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": ["1852691584","2165123689","2870553852","3723315245","986168558"]}
+    "result": {"pageContext":{"artist":{"name":"SKP","slug":"skp","domain":"www.skp-art.com","bio":{"raw":"{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"foo\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"boo\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"bar\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"},"metadata":{"title":"SKP Art Homepage","description":{"description":"This is the homepage of the sick 3sAcp3 from fucking Herne"},"image":{"file":{"url":"//images.ctfassets.net/ipq9xt4j04p3/4ZAgpD8DZtiiDs97IygObW/e39937571a3da316c14b9e76b8717528/273175918_2074642286037435_4028488352541113799_n.webp.jpg"}}}}}},
+    "staticQueryHashes": ["1852691584","2165123689","3723315245","986168558"]}
