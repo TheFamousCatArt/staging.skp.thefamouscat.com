@@ -1,5 +1,5 @@
-Sat Feb  5 21:04:00 UTC 2022
-a66ed9194971dda66d3655fa04b25f26f9bf88e9
+Sat Feb  5 21:07:38 UTC 2022
+d7f80d15a69235da61d3a117f19d4c79ba156f6f
 On branch staging/skp
 Your branch is up to date with 'origin/staging/skp'.
 
@@ -19,11 +19,11 @@ CONDA=/usr/share/miniconda
 GITHUB_WORKSPACE=/home/runner/work/artist/artist
 npm_config_cache=/home/runner/.npm
 JAVA_HOME_11_X64=/usr/lib/jvm/temurin-11-jdk-amd64
-GITHUB_PATH=/home/runner/work/_temp/_runner_file_commands/add_path_d5e081d1-c4d1-4cfe-8199-ce8a17fb10f9
+GITHUB_PATH=/home/runner/work/_temp/_runner_file_commands/add_path_5dd78a14-2b44-4df1-8157-b8ffa977bcb0
 GITHUB_ACTION=__run_7
 JAVA_HOME=/usr/lib/jvm/temurin-11-jdk-amd64
-GITHUB_RUN_NUMBER=21
-RUNNER_NAME=GitHub Actions 2
+GITHUB_RUN_NUMBER=22
+RUNNER_NAME=GitHub Actions 3
 GRADLE_HOME=/usr/share/gradle-7.3.3
 XDG_CONFIG_HOME=/home/runner/.config
 DOTNET_SKIP_FIRST_TIME_EXPERIENCE=1
@@ -40,7 +40,7 @@ CONTENTFUL_SPACE_ID=ipq9xt4j04p3
 DEPLOYMENT_BASEPATH=/opt/runner
 GITHUB_ACTIONS=true
 ANDROID_NDK_LATEST_HOME=/usr/local/lib/android/sdk/ndk/23.1.7779620
-GITHUB_SHA=a66ed9194971dda66d3655fa04b25f26f9bf88e9
+GITHUB_SHA=d7f80d15a69235da61d3a117f19d4c79ba156f6f
 POWERSHELL_DISTRIBUTION_CHANNEL=GitHub-Actions-ubuntu20
 DOTNET_MULTILEVEL_LOOKUP=0
 GITHUB_REF=refs/heads/staging/skp
@@ -50,17 +50,17 @@ GITHUB_REF_PROTECTED=false
 HOME=/home/runner
 GITHUB_API_URL=https://api.github.com
 LANG=C.UTF-8
-RUNNER_TRACKING_ID=github_d150a6e0-0aa4-4114-9892-9cfd7b9e6a8c
+RUNNER_TRACKING_ID=github_a5c03e74-1be7-4ae7-b153-6b3b87a17bc1
 STATS_KEEPALIVE=false
 RUNNER_ARCH=X64
 RUNNER_TEMP=/home/runner/work/_temp
 GH_EMAIL=michael@thefamouscat.com
 GATSBY_IS_BUILDING=true
-GITHUB_ENV=/home/runner/work/_temp/_runner_file_commands/set_env_d5e081d1-c4d1-4cfe-8199-ce8a17fb10f9
+GITHUB_ENV=/home/runner/work/_temp/_runner_file_commands/set_env_5dd78a14-2b44-4df1-8157-b8ffa977bcb0
 GITHUB_EVENT_PATH=/home/runner/work/_temp/_github_workflow/event.json
-INVOCATION_ID=d3eed37c3e0b4218beb97c5d49b44f4c
+INVOCATION_ID=26a6069ed27e401a8e6ea85f3c00f2cd
 GITHUB_EVENT_NAME=push
-GITHUB_RUN_ID=1800532513
+GITHUB_RUN_ID=1800538303
 JAVA_HOME_17_X64=/usr/lib/jvm/temurin-17-jdk-amd64
 ANDROID_NDK_HOME=/usr/local/lib/android/sdk/ndk-bundle
 HOMEBREW_NO_AUTO_UPDATE=1
@@ -85,8 +85,8 @@ GH_USER=TheFamousCatArt
 ANDROID_SDK_ROOT=/usr/local/lib/android/sdk
 VCPKG_INSTALLATION_ROOT=/usr/local/share/vcpkg
 GATSBY_ENV=staging
-RUNNER_TOOL_CACHE=/opt/hostedtoolcache
 HOMEBREW_REPOSITORY=/home/linuxbrew/.linuxbrew/Homebrew
+RUNNER_TOOL_CACHE=/opt/hostedtoolcache
 ImageVersion=20220131.1
 DOTNET_NOLOGO=1
 STATS_PT=20
@@ -100,7 +100,7 @@ GITHUB_REPOSITORY=TheFamousCatArt/artist
 ANDROID_NDK_ROOT=/usr/local/lib/android/sdk/ndk-bundle
 CHROME_BIN=/usr/bin/google-chrome
 GITHUB_RETENTION_DAYS=1
-JOURNAL_STREAM=8:22323
+JOURNAL_STREAM=8:22297
 RUNNER_WORKSPACE=/home/runner/work/artist
 LEIN_HOME=/usr/local/lib/lein
 LEIN_JAR=/usr/local/lib/lein/self-installs/leiningen-2.9.8-standalone.jar
