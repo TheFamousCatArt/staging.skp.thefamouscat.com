@@ -1,4 +1,5 @@
-5e983296ae5816146fcccc160fe4029612342e37
+Sat Feb  5 21:02:49 UTC 2022
+156cae4b4ea80a0988e007db1674ece7800f7e68
 On branch staging/skp
 Your branch is up to date with 'origin/staging/skp'.
 
@@ -7,10 +8,117 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   package-lock.json
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	target/
-
 no changes added to commit (use "git add" and/or "git commit -a")
 origin	https://github.com/TheFamousCatArt/artist (fetch)
 origin	https://github.com/TheFamousCatArt/artist (push)
+ENV: 
+----------_
+SELENIUM_JAR_PATH=/usr/share/java/selenium-server.jar
+GOROOT_1_17_X64=/opt/hostedtoolcache/go/1.17.6/x64
+CONDA=/usr/share/miniconda
+GITHUB_WORKSPACE=/home/runner/work/artist/artist
+npm_config_cache=/home/runner/.npm
+JAVA_HOME_11_X64=/usr/lib/jvm/temurin-11-jdk-amd64
+GITHUB_PATH=/home/runner/work/_temp/_runner_file_commands/add_path_be01f3ce-792b-49c7-b567-cbbd83206ce9
+GITHUB_ACTION=__run_6
+JAVA_HOME=/usr/lib/jvm/temurin-11-jdk-amd64
+GITHUB_RUN_NUMBER=20
+RUNNER_NAME=Hosted Agent
+GRADLE_HOME=/usr/share/gradle-7.3.3
+XDG_CONFIG_HOME=/home/runner/.config
+DOTNET_SKIP_FIRST_TIME_EXPERIENCE=1
+ANT_HOME=/usr/share/ant
+JAVA_HOME_8_X64=/usr/lib/jvm/temurin-8-jdk-amd64
+HOMEBREW_PREFIX=/home/linuxbrew/.linuxbrew
+GITHUB_REF_TYPE=branch
+CONTENTFUL_ACCESS_TOKEN=8zP6LxlbSVglW8Lxj8TEJxq7UUkYrkqTUuw9XO32a3w
+HOMEBREW_CLEANUP_PERIODIC_FULL_DAYS=3650
+BOOTSTRAP_HASKELL_NONINTERACTIVE=1
+PWD=/home/runner/work/artist/artist
+PIPX_BIN_DIR=/opt/pipx_bin
+CONTENTFUL_SPACE_ID=ipq9xt4j04p3
+DEPLOYMENT_BASEPATH=/opt/runner
+GITHUB_ACTIONS=true
+ANDROID_NDK_LATEST_HOME=/usr/local/lib/android/sdk/ndk/23.1.7779620
+GITHUB_SHA=156cae4b4ea80a0988e007db1674ece7800f7e68
+POWERSHELL_DISTRIBUTION_CHANNEL=GitHub-Actions-ubuntu20
+DOTNET_MULTILEVEL_LOOKUP=0
+GITHUB_REF=refs/heads/staging/skp
+RUNNER_OS=Linux
+TARGET_ACCOUNT=TheFamousCatArt
+GITHUB_REF_PROTECTED=false
+HOME=/home/runner
+GITHUB_API_URL=https://api.github.com
+LANG=C.UTF-8
+RUNNER_TRACKING_ID=github_82e18bd6-362e-4099-a957-4ea1e2070d8d
+STATS_KEEPALIVE=false
+RUNNER_ARCH=X64
+RUNNER_TEMP=/home/runner/work/_temp
+GH_EMAIL=michael@thefamouscat.com
+GATSBY_IS_BUILDING=true
+GITHUB_ENV=/home/runner/work/_temp/_runner_file_commands/set_env_be01f3ce-792b-49c7-b567-cbbd83206ce9
+GITHUB_EVENT_PATH=/home/runner/work/_temp/_github_workflow/event.json
+INVOCATION_ID=ca68280caf20472ca24ad3b3c1bcf9e1
+GITHUB_EVENT_NAME=push
+GITHUB_RUN_ID=1800526874
+JAVA_HOME_17_X64=/usr/lib/jvm/temurin-17-jdk-amd64
+ANDROID_NDK_HOME=/usr/local/lib/android/sdk/ndk-bundle
+HOMEBREW_NO_AUTO_UPDATE=1
+BUILD_ENV=staging
+GITHUB_ACTOR=mlahr
+NVM_DIR=/home/runner/.nvm
+SGX_AESM_ADDR=1
+GITHUB_RUN_ATTEMPT=1
+ANDROID_HOME=/usr/local/lib/android/sdk
+GITHUB_GRAPHQL_URL=https://api.github.com/graphql
+RUNNER_USER=runner
+ACCEPT_EULA=Y
+BRANCH=staging/skp
+USER=runner
+GITHUB_SERVER_URL=https://github.com
+HOMEBREW_CELLAR=/home/linuxbrew/.linuxbrew/Cellar
+PIPX_HOME=/opt/pipx
+GECKOWEBDRIVER=/usr/local/share/gecko_driver
+CHROMEWEBDRIVER=/usr/local/share/chrome_driver
+SHLVL=1
+GH_USER=TheFamousCatArt
+ANDROID_SDK_ROOT=/usr/local/lib/android/sdk
+VCPKG_INSTALLATION_ROOT=/usr/local/share/vcpkg
+GATSBY_ENV=staging
+RUNNER_TOOL_CACHE=/opt/hostedtoolcache
+HOMEBREW_REPOSITORY=/home/linuxbrew/.linuxbrew/Homebrew
+ImageVersion=20220131.1
+DOTNET_NOLOGO=1
+STATS_PT=20
+GITHUB_REF_NAME=staging/skp
+GRAALVM_11_ROOT=/usr/local/graalvm/graalvm-ce-java11-22.0.0.2
+GITHUB_JOB=build
+TARGET_REPOSITORY=staging.skp.thefamouscat.com
+AZURE_EXTENSION_DIR=/opt/az/azcliextensions
+PERFLOG_LOCATION_SETTING=RUNNER_PERFLOG
+GITHUB_REPOSITORY=TheFamousCatArt/artist
+ANDROID_NDK_ROOT=/usr/local/lib/android/sdk/ndk-bundle
+CHROME_BIN=/usr/bin/google-chrome
+GITHUB_RETENTION_DAYS=1
+JOURNAL_STREAM=8:22034
+RUNNER_WORKSPACE=/home/runner/work/artist
+LEIN_HOME=/usr/local/lib/lein
+LEIN_JAR=/usr/local/lib/lein/self-installs/leiningen-2.9.8-standalone.jar
+GITHUB_ACTION_REPOSITORY=
+PATH=/opt/hostedtoolcache/node/14.18.3/x64/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/runner/.local/bin:/opt/pipx_bin:/home/runner/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+RUNNER_PERFLOG=/home/runner/perflog
+GITHUB_BASE_REF=
+CI=true
+SWIFT_PATH=/usr/share/swift/usr/bin
+ImageOS=ubuntu20
+GITHUB_REPOSITORY_OWNER=TheFamousCatArt
+GITHUB_HEAD_REF=
+GITHUB_ACTION_REF=
+NODE_VERSION=14.x
+GITHUB_WORKFLOW=CI
+DEBIAN_FRONTEND=noninteractive
+GOROOT_1_15_X64=/opt/hostedtoolcache/go/1.15.15/x64
+AGENT_TOOLSDIRECTORY=/opt/hostedtoolcache
+ARTIST=skp
+GOROOT_1_16_X64=/opt/hostedtoolcache/go/1.16.13/x64
+_=/usr/bin/env
