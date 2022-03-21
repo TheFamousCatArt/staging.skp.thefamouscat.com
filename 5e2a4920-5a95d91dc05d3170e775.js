@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkthefamouscat_artist=self.webpackChunkthefamouscat_artist||[]).push([[152],{3750:function(t,n,e){e.d(n,{bTu:function(){return o}});var r=e(1046);function o(t){return(0,r.w_)({tag:"svg",attr:{viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"2",strokeLinecap:"round",strokeLinejoin:"round"},child:[{tag:"polyline",attr:{points:"6 9 12 15 18 9"}}]})(t)}}}]);
-//# sourceMappingURL=5e2a4920-5a95d91dc05d3170e775.js.map
