@@ -1,5 +1,5 @@
-Mon Mar 21 22:00:43 UTC 2022
-6324bceecb74363ac644804be28811b8aaf05982
+Tue Apr 19 22:49:59 UTC 2022
+f005ee4fbdff98ac72bb3fc138db00ae409d3ca3
 On branch staging/skp
 Your branch is up to date with 'origin/staging/skp'.
 
@@ -7,6 +7,8 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   package-lock.json
+	modified:   static/assets/cloudinary/original/artists/skp/artworks/Deep_is_the_ocean_oigpnc.json
+	modified:   static/assets/cloudinary/original/sample.json
 
 no changes added to commit (use "git add" and/or "git commit -a")
 origin	https://github.com/TheFamousCatArt/artist (fetch)
