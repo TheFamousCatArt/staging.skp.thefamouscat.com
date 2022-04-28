@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-contentful-page-url-js",
-    "path": "/products/",
-    "result": {"data":{"contentfulPage":{"template":"feed","title":"Products","feedType":"Products","mainContent":null}},"pageContext":{"id":"2b73c832-04df-55f8-8d52-1c752004ec67","url":"products","__params":{"url":"products"}}},
-    "staticQueryHashes": ["1852691584","4081866046"]}
